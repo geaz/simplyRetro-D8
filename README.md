@@ -5,7 +5,7 @@ The *D8* is my first attempt to build a small custom bartop from scratch.
 It runs a custom linux image for emulation to accomplish a fast boot time (10 seconds).
 But you are also able to use Retropie or Lakka for example.
 
-![simplyRetro D8](images\Cover.jpg)
+![simplyRetro D8](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/cover.jpg)
 
 You can find a small video of it in action on [Youtube]().
 
@@ -51,11 +51,11 @@ The model was designed in Fusion360. The STLs are in the Thingiverse downloads a
 
 To make your life a bit easier, preinsert eight screws into the holes of the *Back Panel* and *Front Panel*. Furthermore I recommend to widen the first millimeter of the holes on the side panels a bit. 
 
-![Screw in Shell](images\1.jpg)
+![Screw in Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/1.jpg)
 
 Screw the *Front Panel* and *Back Panel* to one of the side panels. Then insert the display into the slot and screw the remaining side panel. **The last top screw of the *Back Panel* will be painful! Use your ratchet!**
 
-![Shell](images\2.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/2.jpg)
 
 ### Arcade Stick
 
@@ -66,15 +66,15 @@ To fit the arcade stick into the shell you have to remove the mounting plate and
 
 I went for option two. My controller board had a defect and I was not able to use the *select* button plug. Thats why I had to remap the arcade controls either way.
 
-![Arcade Stick](images\3.jpg)
+![Arcade Stick](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/3.jpg)
 
 You should be able to use the screws of the mounting plate to mount the stick to the shell.
 
-![Arcade Stick](images\4.jpg)
+![Arcade Stick](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/4.jpg)
 
 Add the *Duster* and screw the *Joystick Ball* to the top of the stick.
 
-![Joystick Ball](images\5.jpg)
+![Joystick Ball](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/5.jpg)
 
 ### Buttons
 
@@ -82,37 +82,37 @@ Add the *Duster* and screw the *Joystick Ball* to the top of the stick.
 
 You have to disassemble the arcade buttons to use the custom housing. Remove the top of the buttons and use a caliper to press the led circuit out of the housing. Removing the switch should be straight forward (a flat screwdriver helps).
 
-![Shell](images\6.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/6.jpg)
 
 First insert the switch to the custom housing (take note of the orientation in the following pictures). If you want/need it, use a bit of glue to mount the switches. Then insert the led circuit. This will be a tight fit. Use a bit force if necessary (or *The Force*
 , if it helps).
 
-![Shell](images\8.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/8.jpg)
 
-![Shell](images\7.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/7.jpg)
 
 Insert the *Button Top*s into the *Front Panel* and mount the *Button Housing*s.
 
-![Shell](images\9.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/9.jpg)
 
-![Shell](images\10.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/10.jpg)
 
 After wiring the buttons bend the pins a bit. Otherwise you won't be able to close the shell in the last step.
 
-![Shell](images\13.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/13.jpg)
 
 ### Audio
 
 Takte the pictures as a reference for the audio *circuit*. This should be straightforward. The top part of the audio jack is the *Left* channel, the middle part the *Right* channel and the bottom part is *Ground*. Insert the speakers into the *mounting circles* of the *Back Panel*. Just use a drop of hot glue, if it is not a press fit in your case. 
 
-![Shell](images\11.jpg)
-![Shell](images\12.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/11.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/12.jpg)
 
 ### Raspberry Pi and closing the shell
 
 Mount the Raspberry Pi to the *Bottom Panel* and insert the power adapter, HDMI and USB plugs into it (Arcade Controller and Display). Don't forget to zip tie the power adapter cable to secure it (see picture). 
 
-![Shell](images\Internals.jpg)
+![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/Internals.jpg)
 
 Now configure your retro system as you want and close the shell. You are done!
 
