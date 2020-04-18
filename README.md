@@ -4,8 +4,6 @@
 
 This repository contains everything to rebuild the *simplyRetro D8*.
 The *D8* is my first attempt to build a small custom bartop from scratch.
-It runs a custom linux image for emulation to accomplish a fast boot time (10 seconds).
-But you are also able to use Retropie or Lakka for example.
 
 ![simplyRetro D8](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/cover.jpg)
 
@@ -39,7 +37,7 @@ The model was designed in Fusion360. The STLs are in the Thingiverse downloads a
 - 1x Audio Jack (male)
 - 1x HDMI Cable (get a short one - the shell will already be quite crowded)
 - 1x USB Type A to USB Type B (for arcade controller connection - see HDMI Cable note above) 
-- Wire
+- 4x Rubber feet with M3 mounting holes
 - 12x M3x8mm screws
 - Zip Ties
 - Velcro or double-faced adhesive tape to attach the PAM, Arcade Controller Board and Display Board
@@ -117,46 +115,4 @@ Mount the Raspberry Pi to the *Bottom Panel* and insert the power adapter, HDMI 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/Internals.jpg)
 
 Now configure your retro system as you want and close the shell. You are done!
-
-## Custom Distribution
-The custom distribution can be downloaded [here](https://github.com/geaz/simplyRetro-D8/releases).  
-It is based on [BuildRoot](https://buildroot.org/) and just contains the packages needed to play on the *D8*. 
-
-**Please be aware, that the distribution was build for the D8! It was not tested as a standalone distribution.**
-
-The *D8* uses Retroarch for all emulations. The following systems are supported at the moment (more can be added):
-
-- Arcade (MAME2013-plus - BIOS needed)
-- Gameboy DMG / Color (Gambatte)
-- Gameboy Advance (gpsp - BIOS needed)
-- NES (quicknes)
-- SNES (snes9x2002)
-- Meda Drive / Master System / Sega CD (picodrive - BIOS needed for Sega CD)
-
-If you want to use the distribution just use Etcher to copy the img file to a SD Card.
-The root password is 'simplyretro'.
-
-### Resize Root
-To use the full size of you SD Card you should execute the following two scripts in order:
-
-/root/reformat.sh (will reboot the system after execution)  
-/root/resize.sh
-
-### WiFi & Services
-You are able to set your WiFi SSID and PSK through the Emulationstation menu. Press 'Start' and go into the 'simplyRetro' menu.
-After setting the WiFi, just enable any service you need. **I recommend to disable the services after usage to speed up the boot process.**
-
-### ROMs and BIOS folder
-The ROMs and BIOS folder are located at */root/roms* and */root/bios*. You are able to change the splash screen, if you want. It is also located at the */root* folder. Use the FTP service to copy your roms to the *D8*.
-
-### Controls
-EmulationStation will ask you to configure your controller on the first start.  
-Retro Arch is configured to exit a ROM, if you press *START + B*.  
-You are able to open the Retro Arch menu while playing a game, if you press *START + A*.
-
-### Updates
-If there will be an update to the distribution, I will try to distribute the updated files together with the image. This way you are able to update just these files via FTP and don't have to flash the whole image again.
-
-## Credits
-Thanks to [BuildRoot](https://buildroot.org/) for the creation of this great system which enabled me to create a custom linux distribution.  
-Thanks to [RecalBox](https://www.recalbox.com/) for their work on the packages for BuildRoot. I took the RetroArch and LibRetro packages and reworked them a bit to work on my distribution. Also thanks for the code of the on screen keyboard!
+I used [RetroPie](https://retropie.org.uk/) together with the [simplyRetro theme](https://github.com/geaz/simplyRetro-Z5/releases/download/v1.4/simplyRetro.Theme.zip).
