@@ -1,3 +1,5 @@
+[![3D2P](https://img.shields.io/badge/3D2P-simplyRetro%20D8-orange.svg)](https://3d2p.net/Project/LY2PZWIBBV0WRMZCS59JRB)
+[![Thingiverse](https://img.shields.io/badge/Thingiverse-simplyRetro%20D8-blue.svg)](https://www.thingiverse.com/thing:4295854)
 [![Github](https://img.shields.io/badge/Github-simplyRetro%20D8-brightgreen.svg)](https://github.com/geaz/simplyRetro-D8)
 
 This repository contains everything to rebuild the *simplyRetro D8*.
@@ -78,7 +80,7 @@ Add the *Duster* and screw the *Joystick Ball* to the top of the stick.
 
 ### Buttons
 
-**If you want to use original 24mm arcade buttons, you may skip this section.**
+**If you want to use original 24mm arcade buttons, you are free to skip this section.**
 
 You have to disassemble the arcade buttons to use the custom housing. Remove the top of the buttons and use a caliper to press the led circuit out of the housing. Removing the switch should be straight forward (a flat screwdriver helps).
 
@@ -91,7 +93,7 @@ First insert the switch to the custom housing (take note of the orientation in t
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/7.jpg)
 
-Insert the *Button Top*s into the *Front Panel* and mount the *Button Housing*s.
+Insert the *Button Top*s into the *Front Panel* and mount the *Button Housing*s. Same goes for the *Side Button Top*s.
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/9.jpg)
 
@@ -103,7 +105,7 @@ After wiring the buttons bend the pins a bit. Otherwise you won't be able to clo
 
 ### Audio
 
-Takte the pictures as a reference for the audio *circuit*. This should be straightforward. The top part of the audio jack is the *Left* channel, the middle part the *Right* channel and the bottom part is *Ground*. Insert the speakers into the *mounting circles* of the *Back Panel*. Just use a drop of hot glue, if it is not a press fit in your case. 
+Take the pictures as a reference for the audio *circuit*. This should be straightforward. The top part of the audio jack is the *Left* channel, the middle part the *Right* channel and the bottom part is *Ground*. Insert the speakers into the *mounting circles* of the *Back Panel*. Just use a drop of hot glue, if it is not a press fit in your case. Mount the PAM to the *Back Panel*.
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/11.jpg)
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/12.jpg)
