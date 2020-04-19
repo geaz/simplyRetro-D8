@@ -14,6 +14,8 @@ This is a quite an easy build which is not using many screws and minimal solderi
 **I don't think you are able to pull of this build without the usage of a ratchet!**
 I wanted a build without any visible screws and minimal amount of parts which are able to break. There is surely a way to accomplish these tasks with better screw holes. If you know one, you are free to edit the model (Fusion 360 Archive File in the CAD folder).
 
+Furthermore the used audio circuit is not great. Many interferences on high volumes. Go ahead and improve it, if you want.
+
 ## Features
 - Custom 3D printed shell
 - Stereo Speakers and Volume Control
@@ -45,10 +47,9 @@ The model was designed in Fusion360. The STLs are in the Thingiverse downloads a
 
 ## Build
 
-**For the first part you have to use a ratchet. I don't think that all screws are accessible without one!** 
-
 ### Shell
 
+**For this part you have to use a ratchet. I don't think that all screws are accessible without one!** 
 To make your life a bit easier, preinsert eight screws into the holes of the *Back Panel* and *Front Panel*. Furthermore I recommend to widen the first millimeter of the holes on the side panels a bit. 
 
 ![Screw in Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/1.jpg)
