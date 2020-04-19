@@ -16,7 +16,6 @@ I wanted a build without any visible screws and minimal amount of parts which ar
 
 ## Features
 - Custom 3D printed shell
-- Custom linux distribution for fast boot
 - Stereo Speakers and Volume Control
 - 12 Buttons
 - 8 inch display
@@ -41,6 +40,7 @@ The model was designed in Fusion360. The STLs are in the Thingiverse downloads a
 - 12x M3x8mm screws
 - Zip Ties
 - Velcro or double-faced adhesive tape to attach the PAM, Arcade Controller Board and Display Board
+- Electrical Tape
 - Wire :)
 
 ## Build
@@ -56,6 +56,10 @@ To make your life a bit easier, preinsert eight screws into the holes of the *Ba
 Screw the *Front Panel* and *Back Panel* to one of the side panels. Then insert the display into the slot and screw the remaining side panel. **The last top screw of the *Back Panel* will be painful! Use your ratchet!**
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/2.jpg)
+
+### Control Boards
+
+I mounted the display and arcade controller boards to the back of the display. **Make sure that you use electrical tape to mask the back of the boards (or the whole display back) before you attach them with the velcro or double-faced tape. Otherwise it is possible that you short them!**
 
 ### Arcade Stick
 
@@ -84,7 +88,7 @@ You have to disassemble the arcade buttons to use the custom housing. Remove the
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/6.jpg)
 
-First insert the switch to the custom housing (take note of the orientation in the following pictures). If you want/need it, use a bit of glue to mount the switches. Then insert the led circuit. This will be a tight fit. Use a bit force if necessary (or *The Force*
+First insert the switch to the custom housing (take note of the orientation in the following pictures). Then insert the led circuit. This will be a tight fit. Use a bit force if necessary (or *The Force*
 , if it helps).
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/8.jpg)
@@ -97,7 +101,7 @@ Insert the *Button Top*s into the *Front Panel* and mount the *Button Housing*s.
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/10.jpg)
 
-After wiring the buttons bend the pins a bit. Otherwise you won't be able to close the shell in the last step.
+After wiring the buttons bend the pins a bit. Otherwise you won't be able to close the shell in the last step. **Insulate the pins with electrical tape, too! Because of the tight fit of the components, it would be possible that you introduce a short.**
 
 ![Shell](https://raw.githubusercontent.com/geaz/simplyRetro-D8/master/images/13.jpg)
 
