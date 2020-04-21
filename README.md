@@ -1,6 +1,4 @@
-[![3D2P](https://img.shields.io/badge/3D2P-simplyRetro%20D8-orange.svg)](https://3d2p.net/Project/LY2PZWIBBV0WRMZCS59JRB)
-[![Thingiverse](https://img.shields.io/badge/Thingiverse-simplyRetro%20D8-blue.svg)](https://www.thingiverse.com/thing:4295854)
-[![Github](https://img.shields.io/badge/Github-simplyRetro%20D8-brightgreen.svg)](https://github.com/geaz/simplyRetro-D8)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A01MQZP)
 
 This repository contains everything to rebuild the *simplyRetro D8*.
 The *D8* is my first attempt to build a small custom bartop from scratch.
