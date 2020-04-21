@@ -7,7 +7,7 @@ The *D8* is my first attempt to build a small custom bartop from scratch.
 
 ## Warning
 This is a quite an easy build to print and assemble, but some of the screws are very hard to reach.
-**I don't think you are able to pull off this build without the usage of a ratchet!**
+**I don't think you are able to pull off this build without the usage of a ratchet (a small one or one with an extension)!**
 
 I wanted a build without any visible screws and minimal amount of parts which are able to break. There is surely a way to accomplish these tasks with better screw holes. If you know one, you are free to edit the model (Fusion 360 Archive File in the CAD folder).
 
