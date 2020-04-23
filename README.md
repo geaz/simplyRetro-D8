@@ -36,7 +36,7 @@ The model was designed in Fusion 360. The STLs are in the Thingiverse downloads 
 - 1x HDMI Cable (get a short one - the shell will already be quite crowded)
 - 1x USB Type A (male) to USB Type B (male) (for arcade controller connection - see HDMI Cable note above) 
 - 4x Rubber feet with M3 mounting holes
-- 12x M3x8mm screws
+- 12x M3x8mm screws (torx screws are highly recommended)
 - Zip Ties
 - Velcro or double-faced adhesive tape to attach the PAM, Arcade Controller Board and Display Board
 - Electrical Tape
