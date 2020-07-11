@@ -28,7 +28,7 @@ The model was designed in Fusion 360. The STLs are in the Thingiverse downloads 
 - 3D Printed Shell (STL folder for models)
 - [8 inch HDMI IPS Display](https://de.aliexpress.com/item/32325920866.html) (If you want to use another display, make sure to adapt the shell) 
 - [1x PAM8403](https://de.aliexpress.com/item/32452488898.html?spm=a2g0s.9042311.0.0.1df04c4dcQesbB)
-- [1x Arcade Controller Set](https://www.amazon.de/gp/product/B01N78D6HB) (If you want to use the custom arcade button housing I made, this set is fine. If you want to use original arcade buttons, get buttons with a 24mm mounting diameter! Otherwise they won't fit into the mounting holes!)
+- 1x Arcade Controller Set (The controller set I bought is not available anymore! They replaced it by a set with new connectors. It seems like [these](https://www.amazon.de/dp/B074PPS84P/ref=cm_sw_em_r_mt_dp_U_qmDcFb8PJB7N4) would work fine now, but not guaranteed since I did not test them! If you want to use original arcade buttons, get buttons with a 24mm mounting diameter! Otherwise they won't fit into the mounting holes!)
 - 1x Raspberry Pi 2 or 3
 - 1x Power Adapter
 - [2x Speaker](https://www.reichelt.de/kleinlautsprecher-k-34-wp-1w-8ohm-vis-2981-p204642.html?&trstct=pos_0) (or similar, just make sure they have a diameter of 3.4 cm or adapt the shell)
